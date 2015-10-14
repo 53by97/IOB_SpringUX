@@ -13,7 +13,8 @@
 		<li class="toplinks"><a href="/">Home</a></li>
 		<li class="toplinks"><a href="/interface/services">Services</a></li>
 		<li class="toplinks"><a href="">About Us</a></li>
-		<li class="toplinks lastli"><a href="">Contact Us</a></li>
+		<li class="toplinks lastli"><a
+			href="mailto:admin@instaoldbooks.com">Contact Us</a></li>
 	</ul>
 	<img class="logo" alt="Old Books - Sell Them For Cash"
 		src="resources/images/books_logo.jpg" />
