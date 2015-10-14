@@ -11,7 +11,7 @@
 <body>
 	<ul class="toplinks">
 		<li class="toplinks"><a href="/">Home</a></li>
-		<li class="toplinks"><a href="/interface/services/">Services</a></li>
+		<li class="toplinks"><a href="/interface/services">Services</a></li>
 		<li class="toplinks"><a href="">About Us</a></li>
 		<li class="toplinks lastli"><a href="">Contact Us</a></li>
 	</ul>
