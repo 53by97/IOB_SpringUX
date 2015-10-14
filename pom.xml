@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.kvvssut</groupId>
 	<artifactId>iobapp-springux</artifactId>
-	<name>SpringMVCHibernateXML</name>
+	<name>IOBAppSpringUX</name>
 	<packaging>war</packaging>
 	<version>1.0</version>
 	<properties>
