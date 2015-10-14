@@ -6,7 +6,7 @@
 <html>
 <head>
 <title>User Details</title>
-<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 <body>
 	<ul class="toplinks">
@@ -16,13 +16,13 @@
 		<li class="toplinks lastli"><a href="">Contact Us</a></li>
 	</ul>
 	<img class="logo" alt="Old Books - Sell Them For Cash"
-		src="../images/books_logo.jpg" />
+		src="images/books_logo.jpg" />
 	<p class="pagedesc">
-		Welcome to the Services Page of <span class="iob">InstaOldBooks</span>!
+		Welcome to the User Details Page of <span class="iob">InstaOldBooks</span>!
 	</p>
-	<div class="pagedesc" align="center">
+	<div class="tabledesc">
 		<h1>Contact List</h1>
-		<table border="1">
+		<table class="center" border="1">
 			<tr>
 				<th>No</th>
 				<th>Username</th>
