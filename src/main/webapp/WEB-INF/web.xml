@@ -31,7 +31,7 @@
 		
 	<servlet-mapping>
 		<servlet-name>appServlet</servlet-name>
-		<url-pattern>/interface/*</url-pattern>
+		<url-pattern>/iobapp/interface/*</url-pattern>
 	</servlet-mapping>
 
 </web-app>
